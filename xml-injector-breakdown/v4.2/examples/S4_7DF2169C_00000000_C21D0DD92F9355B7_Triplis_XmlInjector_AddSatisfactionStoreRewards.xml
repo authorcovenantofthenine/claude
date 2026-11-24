@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="XmlInjector" i="snippet" m="xml_injector.snippet" n="Triplis_XmlInjector_AddSatisfactionStoreRewards" s="13987351244139877815">
+  <L n="add_satisfaction_store_rewards">
+    <U>
+      <L n="new_items">
+        <U>
+          <T n="key">11881631250500706037<!--SimReward: Triplis_XmlInjector_AddSatisfactionStoreRewardsTest_RewardTrait--></T>
+          <U n="value">
+            <E n="award_type">TRAIT</E>
+            <T n="cost">150</T>
+          </U>
+        </U>
+        <U>
+          <T n="key">13805301622587826722<!--SimReward: Triplis_XmlInjector_AddSatisfactionStoreRewardsTest_RewardTrait_Alternate--></T>
+          <U n="value">
+            <E n="award_type">TRAIT</E>
+            <T n="cost">100</T>
+          </U>
+        </U>
+      </L>
+    </U>
+  </L>
+</I>

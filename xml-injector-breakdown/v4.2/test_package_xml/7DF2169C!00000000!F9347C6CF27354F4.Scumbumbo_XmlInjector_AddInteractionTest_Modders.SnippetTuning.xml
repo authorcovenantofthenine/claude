@@ -1,0 +1,46 @@
+<I c="XmlInjector" i="snippet" m="xml_injector.snippet" n="Scumbumbo:XmlInjector_AddInteractionTest_Modders" s="17957114421598967028">
+  <L n="add_interactions_to_objects">
+    <U>
+      <V n="object_selection" t="object_list">
+        <U n="object_list">
+          <L n="object_list">
+            <T>14940<!--GameObject: object_Mailbox--></T>
+            <T>133176<!--GameObject: object_MailboxWall--></T>
+          </L>
+        </U>
+      </V>
+      <L n="_super_affordances">
+        <T>17148613558288810639<!--ImmediateSuperInteraction: Scumbumbo:XmlInjector_InteractionTest_Modders--></T>
+      </L>
+    </U>
+    <U>
+      <V n="object_selection" t="objects_with_affordance">
+        <U n="objects_with_affordance">
+          <T n="affordance">225064<!--ImmediateSuperInteraction: computer_Locking_LockForEveryone--></T>
+        </U>
+      </V>
+      <L n="_super_affordances">
+        <T>17148613558288810639<!--ImmediateSuperInteraction: Scumbumbo:XmlInjector_InteractionTest_Modders--></T>
+      </L>
+    </U>
+  </L>
+  <L n="add_interactions_to_sims">
+    <T>17148613558288810639<!--ImmediateSuperInteraction: Scumbumbo:XmlInjector_InteractionTest_Modders--></T>
+  </L>
+  <L n="add_interactions_to_phones">
+    <T>15645683526077085143<!--ImmediateSuperInteraction: Scumbumbo:XmlInjector_PhoneTest_Modders--></T>
+  </L>
+  <L n="add_interactions_to_relationship_panel">
+    <T>17148613558288810639<!--ImmediateSuperInteraction: Scumbumbo:XmlInjector_InteractionTest_Modders--></T>
+  </L>
+  <L n="add_mixer_interactions">
+    <U>
+      <L n="mixer_snippets">
+        <T>24508<!--AffordanceList: social_Mixers_Friendly_NonTouching--></T>
+      </L>
+      <L n="affordances">
+        <T>12816328997956909872<!--SocialMixerInteraction: Scumbumbo:XmlInjector_MixerTest_Modders--></T>
+      </L>
+    </U>
+  </L>
+</I>

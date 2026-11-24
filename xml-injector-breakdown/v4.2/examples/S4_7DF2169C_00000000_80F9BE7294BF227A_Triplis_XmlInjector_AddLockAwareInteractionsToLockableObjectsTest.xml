@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="XmlInjector" i="snippet" m="xml_injector.snippet" n="Triplis_XmlInjector_AddLockAwareInteractionsToLockableObjectsTest" s="9293668705386832506">
+  <L n="add_lock_aware_interactions_to_lockable_objects">
+    <U>
+      <V n="object_selection" t="objects_with_affordance">
+        <U n="objects_with_affordance">
+          <T n="affordance">225064<!--SimPickerInteraction: computer_Locking_LockForEveryone--></T>
+        </U>
+      </V>
+      <L n="super_affordances">
+        <T>12415634905840155217<!--ImmediateSuperInteraction: Scumbumbo_XmlInjector_InteractionTest--></T>
+      </L>
+    </U>
+  </L>
+</I>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="XmlInjector" i="snippet" m="xml_injector.snippet" n="Triplis_XmlInjector_AddPickerDialogCategoriesToInteractions" s="11594673026056110100">
+  <L n="add_picker_dialog_categories_to_interactions">
+    <U>
+      <L n="interactions_to_add_to">
+        <T>99121<!--PurchasePickerInteraction: Purchase_Books_computer--></T>
+      </L>
+      <L n="picker_dialog_categories">
+        <U>
+          <T p="InGame\UI\Icons\Filters\icon_filter_furniture.png" n="icon">2f7d0004:00000000:1c16f409f8349764</T>
+          <E n="tag">Func_Purchase_Vacation_Furniture</E>
+          <T n="tooltip">0x73A405A2<!--String: "Furniture"--></T>
+        </U>
+      </L>
+    </U>
+  </L>
+</I>

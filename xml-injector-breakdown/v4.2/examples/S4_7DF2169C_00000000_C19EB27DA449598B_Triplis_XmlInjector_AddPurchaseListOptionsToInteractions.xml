@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<I c="XmlInjector" i="snippet" m="xml_injector.snippet" n="Triplis_XmlInjector_AddPurchaseListOptionsToInteractions" s="13951784948337301899">
+  <L n="add_purchase_list_options_to_interactions">
+    <U>
+      <L n="interactions_to_add_to">
+        <T>99121<!--PurchasePickerInteraction: Purchase_Books_computer--></T>
+      </L>
+      <L n="purchase_list_options">
+        <V t="all_items">
+          <U n="all_items">
+            <V n="filter_tags" t="specific_definitions">
+              <L n="specific_definitions">
+                <E>Func_Purchase_Vacation_Furniture</E>
+              </L>
+            </V>
+          </U>
+        </V>
+      </L>
+    </U>
+  </L>
+</I>
