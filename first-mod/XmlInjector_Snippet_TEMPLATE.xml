@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  XML Injector snippet for your first mod.
+  Type 0x7DF2169C  |  Group 0x00000000  |  Instance 0x8EB739CC845D03AB
+
+  BEFORE USING:
+  1. If you rename n="...", run hash_name.py on the new name and replace s="..." and the Instance above.
+  2. Replace INTERACTION_ID_FROM_MOD_CONSTRUCTOR (all places) with the decimal instance ID of the
+     interaction Mod Constructor made for you.
+  3. Delete any section you don't need. A snippet may contain each list only once.
+-->
+<I c="XmlInjector" i="snippet" m="xml_injector.snippet" n="YourName_FirstMod_XmlInjectorSnippet" s="10283751824680616875">
+  <T n="xml_injector_minimum_version">2</T>
+
+  <!-- Social interaction: shows when you click ANOTHER Sim. Self interaction: shows when you click your OWN Sim. -->
+  <L n="add_interactions_to_sims">
+    <T>INTERACTION_ID_FROM_MOD_CONSTRUCTOR</T>
+  </L>
+
+  <!-- OPTIONAL: also show it in the Sim's relationship panel (click a face in the Relationships tab).
+       Remove this whole <L> block if you don't want it. -->
+  <L n="add_interactions_to_relationship_panel">
+    <T>INTERACTION_ID_FROM_MOD_CONSTRUCTOR</T>
+  </L>
+</I>
